@@ -1,0 +1,11 @@
+[
+    {
+        "fileVersion": 1057832,
+        "fileSize": 179088,
+        "manufacturerCode": 4364,
+        "imageType": 14,
+        "sha512": "41c07ffddaa00c8665b4cdef34c34f0a1f1701ad62c6ffee00d5bc408d08865cf163cda2ab382c9770e00bd6c5b296873abc2bfe85f0473d926905c2024c6286",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Ledvance/RT_RGBW_IMG001D_00102428-encrypted.ota",
+        "force": true
+    }
+]
